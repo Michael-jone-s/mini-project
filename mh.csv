@@ -1,0 +1,129 @@
+Gender,Age,Area_of_living,Feel_1st.Lockdown,Health_affected,Enjoyment_of_lockdown,new_varient.(omicron),feel_Lockdown.again ,feel_loneliness,miss_the_most,Effect_of_online_edu,Effect_of_financial.status,Depression_or_stress,Reason_for_stress,Overcome_stress
+Male,21,Rural,4,Maybe,4,Yes,2,No,Friends,Maybe,Yes,No,Missing college/school life,Yes
+Male,21,Rural,4,No,5,Yes,5,No,Friends,Yes,No,No,Not seeing friends/loved one,Yes
+Female,18,Urban,3,Maybe,3,Yes,3,Maybe,Friends,Yes,Yes,No,Missing college/school life,Yes
+Male,21,Urban,5,No,5,Yes,5,No,Friends,No,Yes,No,Worried about my carrier,Yes
+Male,21,Urban,3,No,4,No,5,No,Loved one,Maybe,Maybe,No,Worried about my carrier,Yes
+Male,22,Semi urban,2,No,5,Yes,3,Maybe,Friends,Yes,Yes,No,Worried about my carrier,Yes
+Male,20,Semi urban,2,No,5,Yes,4,No,Other relations,No,No,No,Not seeing friends/loved one,Yes
+Male,21,Urban,2,No,3,Yes,4,No,Loved one,Yes,Yes,No,financial problem,Yes
+Male,20,Rural,4,Yes,3,Yes,3,No,Friends,No,Maybe,No,financial problem,Yes
+Male,21,Urban,1,No,5,No,5,Yes,Loved one,Yes,No,No,Not seeing friends/loved one,Yes
+Male,22,Rural,1,No,3,Yes,1,No,Other relations,Yes,Yes,No,Worried about my carrier,No
+Male,21,Urban,4,No,4,Yes,5,No,Friends,No,Yes,No,financial problem,No
+Male,20,Semi urban,1,No,4,Yes,2,No,Friends,No,No,No,Missing college/school life,Yes
+Female,24,Semi urban,3,No,5,Yes,4,No,Friends,No,No,No,Not seeing friends/loved one,Yes
+Male,20,Rural,2,No,3,Yes,3,Yes,Friends,Maybe,Yes,No,financial problem,Yes
+Male,21,Urban,1,No,5,Yes,2,No,Friends,No,No,No,Not seeing friends/loved one,Yes
+Male,21,Semi urban,2,No,4,Yes,3,No,Friends,Yes,Yes,No,Worried about my carrier,Yes
+Male,21,Semi urban,4,No,4,Yes,2,No,Friends,No,Yes,No,Worried about my carrier,Yes
+Male,21,Urban,1,No,5,Yes,5,No,Friends,No,No,No,Missing college/school life,Yes
+Male,20,Rural,4,No,3,Yes,3,Maybe,Friends,Maybe,No,No,Worried about my carrier,Yes
+Female,18,Urban,5,Yes,5,Yes,5,No,Loved one,No,Yes,No,Not seeing friends/loved one,Yes
+Female,21,Urban,5,No,5,Yes,5,No,Friends,Yes,No,No,Worried about my carrier,No
+Female,21,Urban,2,No,5,Yes,5,No,Friends,Yes,Yes,No,Worried about my carrier,Yes
+Male,22,Semi urban,4,No,3,Yes,3,Maybe,Friends,Maybe,Yes,No,Missing college/school life,Yes
+Female,18,Urban,1,No,3,Yes,1,No,Other relations,Maybe,No,No,Worried about my carrier,Yes
+Male,20,Semi urban,2,No,5,Yes,5,No,Friends,Maybe,Maybe,No,Missing college/school life,Yes
+Male,21,Urban,3,No,5,Yes,4,Maybe,Friends,No,Yes,No,Not seeing friends/loved one,Yes
+Male,21,Urban,1,No,4,Yes,3,No,Other relations,Maybe,Yes,No,Missing college/school life,Yes
+Male,20,Semi urban,5,No,3,Yes,1,No,Friends,No,Maybe,No,Missing college/school life,Yes
+Male,21,Rural,1,No,1,Yes,1,Yes,Friends,Yes,Yes,No,Worried about my carrier,Yes
+Male,20,Rural,5,No,3,Yes,3,No,Friends,Yes,No,No,Not seeing friends/loved one,No
+Male,22,Semi urban,5,No,2,No,4,No,Friends,No,No,No,Worried about my carrier,No
+Male,21,Rural,3,No,5,Yes,1,No,Friends,No,No,No,Worried about my carrier,No
+Male,21,Rural,3,Maybe,3,Yes,3,Maybe,Loved one,No,Maybe,No,Not seeing friends/loved one,Yes
+Female,21,Rural,1,Yes,4,Yes,3,No,Friends,Maybe,Maybe,No,Worried about my carrier,Yes
+Male,23,Urban,4,No,5,Yes,5,Yes,Friends,Maybe,No,No,Not seeing friends/loved one,Yes
+Male,21,Rural,1,No,5,Yes,5,No,Friends,No,No,No,Worried about my carrier,Yes
+Male,21,Urban,4,No,5,No,4,No,Loved one,No,Yes,No,financial problem,Yes
+Male,21,Semi urban,2,No,3,Yes,1,No,Friends,Yes,Yes,No,Worried about my carrier,No
+Male,20,Urban,2,Yes,2,Yes,2,Yes,Friends,No,Maybe,No,Missing college/school life,Yes
+Male,21,Rural,2,No,5,Yes,5,No,Friends,No,No,No,Worried about my carrier,Yes
+Male,21,Urban,1,No,5,Yes,4,No,Friends,Yes,Yes,No,financial problem,Yes
+Male,21,Urban,4,No,4,Yes,4,No,Friends,No,Yes,No,Worried about my carrier,Yes
+Male,21,Rural,2,No,3,Yes,2,No,Friends,No,No,No,Missing college/school life,Yes
+Male,21,Urban,3,No,3,Yes,1,No,Friends,Yes,Yes,No,Missing college/school life,Yes
+Male,22,Urban,3,Yes,4,Yes,4,Maybe,Friends,Maybe,Maybe,No,financial problem,No
+Male,21,Urban,3,No,3,Yes,2,Maybe,Friends,Yes,Yes,No,Not seeing friends/loved one,Yes
+Male,21,Urban,1,No,4,Yes,1,No,Friends,Yes,No,No,Missing college/school life,Yes
+Female,20,Urban,5,Yes,5,Yes,5,No,Friends,No,Yes,No,Worried about my carrier,Yes
+Male,25,Urban,3,No,4,Yes,4,No,Friends,No,No,No,Worried about my carrier,Yes
+Male,21,Urban,1,No,3,Yes,2,No,Friends,No,No,No,Missing college/school life,Yes
+Male,21,Semi urban,4,No,4,Yes,3,Yes,Friends,Maybe,Yes,Yes,Missing college/school life,Yes
+Female,21,Urban,3,Yes,3,Yes,1,Yes,Loved one,Yes,No,Yes,Not seeing friends/loved one,Yes
+Male,21,Rural,4,Yes,3,Yes,2,Yes,Loved one,Yes,Yes,Yes,Worried about my carrier,Yes
+Male,21,Rural,4,Yes,4,Yes,2,No,Loved one,Yes,No,Yes,Not seeing friends/loved one,Yes
+Male,22,Rural,4,Yes,4,Yes,4,No,Loved one,No,Maybe,Yes,Not seeing friends/loved one,Yes
+Male,21,Urban,4,Maybe,4,Yes,4,Yes,Friends,Yes,Yes,Yes,Not seeing friends/loved one,Yes
+Male,21,Semi urban,3,No,4,Yes,3,No,Friends,Yes,Maybe,Yes,Worried about my carrier,Yes
+Male,22,Urban,5,Yes,4,Yes,4,No,Friends,No,Yes,Yes,financial problem,Yes
+Male,20,Rural,2,Maybe,3,Yes,3,Maybe,Friends,Yes,Yes,Yes,financial problem,Yes
+Male,19,Semi urban,1,No,5,Yes,5,Yes,Loved one,No,Yes,Yes,Not seeing friends/loved one,Yes
+Male,21,Rural,1,No,2,Yes,2,No,Friends,No,Yes,Yes,Worried about my carrier,Yes
+Male,21,Rural,3,No,4,Yes,2,Yes,Friends,Yes,Maybe,Yes,Worried about my carrier,Yes
+Male,18,Urban,4,No,3,Yes,2,Yes,Friends,Yes,Maybe,Yes,Missing college/school life,Yes
+Male,21,Urban,1,Yes,1,Yes,1,Yes,Friends,Yes,Yes,Yes,Worried about my carrier,Yes
+Male,20,Rural,3,No,3,Yes,2,Yes,Friends,Yes,No,Yes,Missing college/school life,Yes
+Male,20,Rural,4,Maybe,3,Yes,3,Maybe,Friends,Yes,Yes,Yes,financial problem,No
+Male,21,Rural,1,Maybe,1,Yes,1,Maybe,Friends,Maybe,Yes,Yes,Missing college/school life,Yes
+Male,21,Rural,5,Yes,4,Yes,5,No,Other relations,No,Maybe,Yes,financial problem,Yes
+Male,22,Semi urban,3,Maybe,3,Yes,3,Maybe,Friends,Yes,Yes,Yes,Missing college/school life,Yes
+Male,21,Rural,1,No,2,Yes,1,Yes,Friends,Yes,Yes,Yes,Worried about my carrier,Yes
+Male,21,Urban,3,No,3,Yes,3,Yes,Friends,No,Yes,Yes,Not seeing friends/loved one,Yes
+Male,22,Urban,1,No,3,Yes,1,Yes,Friends,Yes,Yes,Yes,Not seeing friends/loved one,Yes
+Female,21,Urban,5,No,3,Yes,2,No,Loved one,Maybe,Yes,Yes,financial problem,Yes
+Male,21,Urban,4,Yes,4,Yes,1,No,Friends,Yes,Yes,Yes,Worried about my carrier,Yes
+Male,21,Urban,4,No,3,Yes,2,No,Friends,Yes,No,Yes,Worried about my carrier,No
+Male,20,Rural,4,Yes,5,Yes,2,Yes,Other relations,Yes,Maybe,Yes,Worried about my carrier,Yes
+Male,22,Urban,5,No,3,Yes,5,Yes,Friends,Yes,No,Yes,Missing college/school life,Yes
+Male,21,Urban,1,No,2,Yes,3,Yes,Loved one,No,No,Yes,Not seeing friends/loved one,Yes
+Male,21,Urban,5,No,2,Yes,1,Maybe,Other relations,No,No,Yes,Missing college/school life,Yes
+Male,20,Semi urban,3,Maybe,4,Yes,5,Yes,Friends,Maybe,Yes,Yes,Worried about my carrier,No
+Male,20,Rural,1,No,3,Yes,1,Yes,Friends,Maybe,Yes,Yes,Missing college/school life,Yes
+Male,21,Semi urban,1,No,3,Yes,3,Yes,Friends,Yes,Yes,Yes,Not seeing friends/loved one,Yes
+Male,20,Urban,5,No,2,Yes,1,No,Friends,Yes,Yes,Yes,financial problem,Yes
+Female,21,Urban,2,No,3,Yes,2,Maybe,Friends,Yes,Yes,Yes,Worried about my carrier,Yes
+Male,20,Rural,4,Yes,5,Yes,4,Yes,Loved one,No,Yes,Yes,Not seeing friends/loved one,Yes
+Female,21,Urban,1,Maybe,4,Yes,2,Yes,Friends,Maybe,Yes,Yes,Not seeing friends/loved one,Yes
+Male,21,Semi urban,1,Yes,3,Yes,4,No,Friends,Yes,No,Yes,Missing college/school life,Yes
+Male,18,Semi urban,1,Yes,1,Yes,5,Yes,Loved one,Yes,Yes,Yes,Worried about my carrier,Yes
+Female,20,Urban,4,Maybe,3,Yes,2,Yes,Friends,Yes,Yes,Yes,Worried about my carrier,Yes
+Male,21,Urban,2,Yes,1,Yes,1,Yes,Friends,Yes,No,Yes,Missing college/school life,No
+Female,21,Rural,4,Yes,3,Yes,3,Maybe,Friends,Yes,Maybe,Yes,Worried about my carrier,Yes
+Female,21,Urban,3,No,2,Yes,1,Maybe,Friends,Maybe,No,Yes,Not seeing friends/loved one,Yes
+Male,21,Rural,5,Yes,5,No,5,No,Loved one,Maybe,Maybe,Yes,Not seeing friends/loved one,Yes
+Male,20,Urban,3,No,2,Yes,2,Yes,Friends,Yes,No,Yes,Missing college/school life,No
+Female,23,Semi urban,1,Yes,2,Yes,1,Yes,Friends,Yes,Yes,Yes,Missing college/school life,No
+Male,22,Urban,2,Yes,2,Yes,1,Yes,Loved one,Yes,Yes,Yes,Not seeing friends/loved one,No
+Male,21,Urban,1,No,1,Yes,2,Yes,Friends,Yes,Yes,Yes,Worried about my carrier,Yes
+Female,21,Semi urban,1,No,4,Yes,1,Yes,Family,Yes,Yes,Yes,Worried about my carrier,Yes
+Male,21,Urban,5,No,3,Yes,3,Maybe,Friends,Yes,Yes,Yes,financial problem,Yes
+Male,27,Rural,1,Yes,1,Yes,3,Maybe,Friends,No,Yes,Yes,Worried about my carrier,Yes
+Male,21,Semi urban,5,No,5,Yes,5,Maybe,Friends,No,Maybe,Yes,Not seeing friends/loved one,Yes
+Male,21,Semi urban,3,No,4,Yes,1,Yes,Loved one,Maybe,Yes,Yes,Missing college/school life,Yes
+Male,27,Urban,2,Yes,3,Yes,1,No,Friends,Yes,Yes,Yes,Not seeing friends/loved one,Yes
+Male,21,Rural,2,No,1,Yes,5,Yes,Friends,Yes,Yes,Yes,Worried about my carrier,Yes
+Male,21,Urban,5,Yes,4,Yes,3,Yes,Friends,Maybe,Maybe,Yes,Worried about my carrier,Yes
+Male,20,Rural,3,No,1,Yes,1,No,Friends,No,No,Yes,Worried about my carrier,Yes
+Male,20,Urban,3,Yes,4,Yes,3,Yes,Friends,Yes,Yes,Yes,Worried about my carrier,No
+Male,22,Rural,1,No,3,Yes,1,Yes,Family,No,Yes,Yes,Worried about my carrier,No
+Male,21,Urban,3,No,4,Yes,4,Maybe,Friends,Yes,Yes,Yes,Worried about my carrier,Yes
+Male,23,Urban,2,Yes,2,Yes,3,Yes,Loved one,No,Yes,Yes,Worried about my carrier,No
+Male,20,Semi urban,3,Yes,2,Yes,1,Yes,Loved one,Yes,No,Yes,Missing college/school life,Yes
+Male,21,Rural,4,Yes,5,Yes,5,Maybe,Friends,Maybe,Yes,Yes,Not seeing friends/loved one,Yes
+Male,21,Urban,3,No,3,Yes,3,No,Loved one,No,Yes,Yes,Not seeing friends/loved one,Yes
+Male,21,Urban,1,Maybe,1,Yes,2,Maybe,Loved one,Maybe,Maybe,Yes,Not seeing friends/loved one,Yes
+Male,20,Semi urban,1,No,3,Yes,1,Yes,Friends,Yes,Yes,Yes,financial problem,Yes
+Male,20,Urban,2,No,3,Yes,1,Yes,Loved one,No,Yes,Yes,financial problem,Yes
+Male,20,Semi urban,2,Yes,3,Yes,2,Yes,Friends,Yes,Yes,Yes,Worried about my carrier,No
+Male,21,Semi urban,5,No,3,Yes,1,No,Friends,Yes,Yes,Yes,Worried about my carrier,Yes
+Female,21,Urban,1,No,4,Yes,2,No,Friends,No,No,Yes,Worried about my carrier,Yes
+Male,21,Urban,4,Maybe,3,Yes,3,Yes,Friends,No,Maybe,Yes,Worried about my carrier,No
+Male,21,Rural,1,No,1,Yes,1,Yes,Friends,Yes,Yes,Yes,Missing college/school life,Yes
+Male,22,Urban,5,Yes,1,Yes,5,No,Friends,No,Yes,Yes,financial problem,No
+Male,21,Rural,3,No,4,Yes,3,No,Friends,Maybe,Maybe,No,Worried about my carrier,Yes
+Male,21,Rural,3,No,2,Yes,3,Yes,Loved one,Yes,Yes,Yes,Worried about my carrier,Yes
+Male,21,Urban,5,Yes,3,Yes,5,No,Other relations,No,Yes,No,financial problem,Yes
+Female,20,Rural,1,No,1,Yes,1,Yes,Friends,Yes,No,Yes,Worried about my carrier,Yes
+Male,21,Rural,1,No,1,No,1,Yes,Loved one,No,No,Yes,Not seeing friends/loved one,No
